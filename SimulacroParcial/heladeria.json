@@ -1,0 +1,18 @@
+[
+    {
+        "id": 2,
+        "sabor": "chocolate",
+        "precio": "1000",
+        "tipo": "crema",
+        "vaso": "plastico",
+        "stock": 500
+    },
+    {
+        "id": 3,
+        "sabor": "caramelo",
+        "precio": "1000",
+        "tipo": "crema",
+        "vaso": "plastico",
+        "stock": 1341
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "agus1",
+        "codigo_barra": "123456",
+        "cantidad": "24",
+        "fecha_venta": "2024-04-29 15:47:55"
+    },
+    {
+        "nombre": "agus1",
+        "codigo_barra": "123456",
+        "cantidad": "24",
+        "fecha_venta": "2024-04-29 15:57:13"
+    },
+    {
+        "nombre": "agus1",
+        "codigo_barra": "123456",
+        "cantidad": "24",
+        "fecha_venta": "2024-04-29 16:03:49"
+    },
+    {
+        "nombre": "agus1",
+        "codigo_barra": "123456",
+        "cantidad": "24",
+        "fecha_venta": "2024-04-29 16:06:11"
+    },
+    {
+        "nombre": "agus1",
+        "codigo_barra": "123456",
+        "cantidad": "24",
+        "fecha_venta": "2024-04-29 16:07:37"
+    },
+    {
+        "nombre": "agus1",
+        "codigo_barra": "123456",
+        "cantidad": "1",
+        "fecha_venta": "2024-04-29 17:49:02"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2022,
+        "nombre": "agus1",
+        "clave": "clave1",
+        "mail": "usuario1@example.com",
+        "fecha_registro": "2024-04-26 15:30:28"
+    },
+    {
+        "id": 4888,
+        "nombre": "agus",
+        "clave": "clave10",
+        "mail": "usuario1@example.com",
+        "fecha_registro": "2024-04-26 15:31:40"
+    }
+]

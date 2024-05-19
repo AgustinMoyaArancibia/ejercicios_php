@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "codigo_barra": "123456",
+        "nombre": "arroz",
+        "tipo": "cereal",
+        "stock": 0,
+        "precio": "2000"
+    },
+    {
+        "id": 2,
+        "codigo_barra": "123457",
+        "nombre": "fideos",
+        "tipo": "pastas",
+        "stock": "15",
+        "precio": "25282"
+    },
+    {
+        "id": 824,
+        "codigo_barra": "123423",
+        "nombre": "lentajas",
+        "tipo": "pastas",
+        "stock": "15",
+        "precio": "25282"
+    }
+]
